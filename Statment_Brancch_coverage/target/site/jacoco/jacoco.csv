@@ -1,0 +1,5 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+Traingle_Casification_class_1,Statment_Brancch_coverage.Statment_Brancch_coverage,statusClass,0,51,0,16,0,17,0,10,0,2
+Traingle_Casification_class_1,Statment_Brancch_coverage.Statment_Brancch_coverage,App,27,0,4,0,9,0,4,0,2,0
+Traingle_Casification_class_1,Statment_Brancch_coverage.Statment_Brancch_coverage,statusClass.Status,0,15,0,0,0,2,0,1,0,1
+Traingle_Casification_class_1,Statment_Brancch_coverage.Statment_Brancch_coverage,WeakClass,29,43,6,10,8,14,6,7,2,3
